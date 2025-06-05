@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #235363;
+    color: #333;
+}
+
+.profile-container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.profile-info {
+    margin-bottom: 20px;
+    font-family: Impact;
+}
+
+.video-container {
+    margin-top: 20px;
+}
